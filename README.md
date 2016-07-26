@@ -13,3 +13,5 @@ Bad help files/instructions:
 
 1. http://www.instructables.com/id/how-to-take-screen-shots/?ALLSTEPS
 The set of instructions above are beyond appalling. The author uses incorrect grammar and spelling countless times throughout the help file. Goes on and on about things we don't need to know.
+
+2. 
